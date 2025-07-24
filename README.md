@@ -1,5 +1,3 @@
-# Attendance-Demo-App-Development-Intern-
-
 # Attendance Demo App
 
 A Flutter-based attendance tracking system designed for employees. It allows users to record attendance via a camera-based punch-in system, view attendance reports, and access helpdesk features — all in a modern mobile UI.
