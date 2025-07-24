@@ -1,12 +1,12 @@
 # Attendance-Demo-App-Development-Intern-
 
-# 📅 Attendance Demo App
+# Attendance Demo App
 
 A Flutter-based attendance tracking system designed for employees. It allows users to record attendance via a camera-based punch-in system, view attendance reports, and access helpdesk features — all in a modern mobile UI.
 
 ---
 
-## 🚀 Features
+## Features
 
 - 👤 **Employee Login View**
   - Personalized greeting with employee name and code (e.g., Sambhavi, Emp Code: 0001)
@@ -34,7 +34,7 @@ A Flutter-based attendance tracking system designed for employees. It allows use
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 ### Prerequisites
 
